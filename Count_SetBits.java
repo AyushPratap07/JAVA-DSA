@@ -12,5 +12,6 @@ public class Count_SetBits {
             n=n>>1;
         }
         return c;
+        
     }
 }
